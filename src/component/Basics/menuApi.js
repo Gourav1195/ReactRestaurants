@@ -1,0 +1,68 @@
+
+const Menu = [
+{
+    id: 1,
+    image: "image/Dosa.jpg",
+    name: "Dosa",
+    category: "breakfast",
+    price: '₹25',
+    description: "Dosa is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+{
+    id: 2,
+    image: "https://source.unsplash.com/weekly?pizza",
+    name: "Onion Pizza",
+    category: "breakfast",
+    price: '₹25',
+    description: "Chat is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+{
+    id: 3,
+    image: "https://source.unsplash.com/weekly?golgappa",
+    name: "Vada",
+    category: "lunch",
+    price: '₹25',
+    description: "Idli is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+{
+    id: 4,
+    image: "https://source.unsplash.com/weekly?food",
+    name: "Starter",
+    category: "lunch",
+    price: '₹25',
+    description: "caggie is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+{
+    id: 6,
+    image: "https://source.unsplash.com/weekly?pavbhaji",
+    name: "Pav Bhaji",
+    category: "lunch",
+    price: '₹25',
+    description: "Maggie is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+{
+    id: 7,
+    image: "https://source.unsplash.com/weekly?paratha",
+    name: "Paratha",
+    category: "breakfast",
+    price: '₹25',
+    description: "Maggie is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+{
+    id: 8,
+    image: "https://source.unsplash.com/weekly?paneer",
+    name: "Panner Pizza",
+    category: "lunch",
+    price: '₹25',
+    description: "Maggie is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+{
+    id: 9,
+    image: "https://source.unsplash.com/weekly?nonveg",
+    name: "Butter Chicken",
+    category: "dinner",
+    price: '₹25',
+    description: "Maggie is lob, Lorem ipsum, adipisicing elit. Fugit quas perferendis sapiente illo? Nemo itaque, enim quaerat omnis ut fugit odio ducimus earum, quis dolores numquam explicabo voluptates voluptatum illum quos sunt non sint cumque est. Quod veniam quos modi! ",
+},
+];
+export default Menu;
